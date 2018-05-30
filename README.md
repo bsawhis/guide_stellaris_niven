@@ -179,9 +179,11 @@ Tout en haut vous trouvez de drôles d'icônes et des chiffres a n'en plus savoi
 Ces ressources sont présentées avec l'icône de la ressource suivie d'une chaîne de nombres comme ceci: 
 
       200+9
+
 Voyez ceci plutôt comme cela:
 
     reserves+production_mensuelle
+
 Notons également que ces ressources sont limitées: vous ne pouvez produire plus de ressources que vous ne pouvez en stocker. Vous pourrez augmenter les capacités de stockages avec des **silo de stockage** et certaines technologies.
 
 L'**unité** est une ressource illimitée: vous pouvez en produire une quantité infinie mais il est sage de la dépenser à chaque fois que vous le pouvez.

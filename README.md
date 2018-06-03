@@ -156,7 +156,7 @@ Si vous faites vos premiers pas, réglez la difficulté sur enseigne. La difficu
 
 Vous démarrez la partie et vous êtes complètement perdu. Ce n'est pas votre faute, le jeu n'est pas facile a comprendre. Et le didacticiel est un peu brouillon.
 
-## L'interface, les ressources et les menus
+## Les ressources et limites
 
 ![enter image description here](https://lh3.googleusercontent.com/qmxfVii8ua7cL-37mO_XorPCU7GWlHl5wgEjLCwwnccOU5DKtYRI9zonxKj2NyDDjuhhFjmbPcI7)
 
@@ -176,10 +176,11 @@ Tout en haut vous trouvez de drôles d'icônes et des chiffres a n'en plus savoi
 
 ![](https://lh3.googleusercontent.com/w3RrVVWkTXs-GFO-P93YMER2GxVq6WMBGqB8DDnNGfpgL8UjvLxhK7wD2biDg_fmixSUUL3LzF_0=s18) **Unité**: L'unité permet d'acquérir des **traditions** qui contribuent au succès de votre empire. Elle est produite par divers bâtiments.
 
+Chaque ressource est produite de façon **mensuelle** et va directement dans vos réserves.
+
 Ces ressources sont présentées avec l'icône de la ressource suivie d'une chaîne de nombres comme ceci: 
 
       200+9
-
 Voyez ceci plutôt comme cela:
 
     reserves+production_mensuelle
@@ -190,4 +191,47 @@ L'**unité** est une ressource illimitée: vous pouvez en produire une quantité
 
 Dans le cas de la **nourriture**, vous devez constituer des réserves. Par défaut, les réserves sont réduites et nécessitent seulement 200 Nourriture. Une fois remplies, la production n'est pas vraiment perdue mais contribue à un **développement** plus rapide des pops.
 
+### Limites/Caps
 
+En plus des ressources, vous avez aussi plusieurs règles et limites à respecter pour que votre empire tienne debout:
+
+![enter image description here](https://lh3.googleusercontent.com/7-xv1QI4br-jcbgpvFoD8Z6EgY_hY1eK-zQ-oXtcf1yCPeTEZNHh14McPBBvfyYb5AY9W7mk8qrs) **Limite de stations**: c'est la limite de stations spatiales pouvant être gérées dans votre empire. Comme nous sommes au début de la partie, vous pouvez gérer de base 3 stations à la fois, et nous en disposons d'une pré-construite dans notre système natal. Cette limite peut être **dépassée**, mais elle augmentera considérablement le **coût d'entretien** des stations. Les **avant-postes** ne sont pas pris en compte dans cette limite, ce qui veut dire que vous pouvez en construire à volonté. Cette limite n'est pas figée et vous pourrez l'augmenter à travers des **technologies** et **traditions** et grâce à vos **pops**.
+
+![enter image description here](https://lh3.googleusercontent.com/E1TovW2_D1xn8XNKz8gZ4Wdlc-C7r7ofhCewnQnKzirNLfQCfHvQdRXkBdEH9qgQR_aIusRFPWd3) **Limite de vaisseaux**: c'est la limite de **vaisseaux militaires** que vous pouvez maintenir en état dans votre flotte. Par défaut, vous avez déjà trois corvettes en orbite de votre étoile natale. Si vous dépassez cette limite, le coût d'entretien des vaisseaux augmente.
+Conseil: l'entretien de votre flotte consomme des **crédits énergétiques** ET des **minéraux**, il vaut mieux donc pas dépasser cette limite à moins que vous n'ayez pas d'autre choix.
+
+![enter image description here](https://lh3.googleusercontent.com/cTJitqo8g2gkBODnFm0Z63msZeueu_n0Vq6AF5pdph5RMsi8BQ8frq4VYjWJNqBbtIua79wq12Tb) **Limite de systèmes**: la limite de systèmes colonisés de votre empire. Comme les autres limites, elle peut être améliorée via les traditions et les technologies. Chaque **système colonisé** compte pour 1, mais les systèmes comptant plusieurs planètes colonisées comptent également pour 1. Gardez cela à l'esprit quand vous entamerez votre conquête de l'espace. Les systèmes **non colonisés** (qui ne comportent pas de colonies) comptent pour 0. Dépasser cette limite réduit considérablement votre production d'énergie.
+Cette limite peut néanmoins être contournée en créant des **secteurs**. Mais nous en parleront plus tard.
+
+Utilisez ces limites afin de planifier votre expansion: si vous avez prévu de jouer **large** (wide ou tall en anglais), essayez d'obtenir les **traditions** et **technologies** dont vous avez besoin pour augmenter vos caps et ne les laissez pas vous ralentir.
+
+### Les menus (il y en a beaucoup)
+
+Oui, il y en a un nombre considérable. En effet, vous aurez à gérer chaque partie de votre empire afin de surpasser les autres empires.
+
+![enter image description here](https://lh3.googleusercontent.com/T1-28IhmOKJAeySguKpxhQgcGfCUofz5-aW0VTK-Ac3tNI0SL17Jl94J5cn05VZl0LgDhNHOtOB8)
+
+Cliquer sur le drapeau de votre empire (ou F1) ouvre la fenêtre **gouvernement** ou sont affichés les informations sur votre empire, telles que les **éthiques**, **civismes**, ou les principaux **modificateurs d'empire**. Vous pouvez aussi voir votre **dirigeant** et ses propres **traits**.
+
+Vous disposez ensuite de plusieurs autres menus que nous verrons plus tard: Contacts, Technologies et le Journal de Bord.
+
+Les menus sont tous disponibles en haut à gauche de l'écran.
+
+En bas vous pouvez voir le **nom du système** (que vous pouvez renommer si vous le souhaitez), sa description et le bouton **carte galactique** que vous utiliserez incessamment.
+
+A droite se situe le **gestionnaire** qui affiche la totalité de vos unités (vaisseaux civils, flottes, stations), vos planètes, factions, mégastructures, etc...
+Vous serez amené à l'utiliser pour connaître l'état de vos unités (si elles ont besoin d'être améliorées) et de vos planètes. Ne le fermez jamais, c'est votre ami le plus précieux.
+
+En bas à droite, vous pourrez modifier l'affichage de la carte galactique.
+
+Dernière chose: le temps.
+Dans Stellaris, l'unité principale de mesure du temps sont les **jours**. En haut à droite vous pouvez contrôler à quelle vitesse défilent les jours avec les boutons + et -, et mettre pause avec le symbole triangulaire. N'hésitez pas à mettre pause pour réfléchir à votre stratégie (vous ne pourriez pas le faire en vrai alors profitez-en). La partie commence toujours à l'an 2200.
+
+### Carte galactique
+
+J'en ai parlé un peu plus haut. La vue galactique vous permet d'avoir un aperçu de votre galaxie, qui constitue l'ensemble de votre terrain de jeu. 
+
+![enter image description here](https://lh3.googleusercontent.com/xdRveJN_z6g4vfbHgQceQg7EqCj323bDR_I_6kc5KXNIsNqSpKVzBlts9us2gfgLqkXm_7Dz8viS) 
+Voici mon empire. Il ne comporte qu'un système, mais je pourrais l'agrandir plus tard. Vous pouvez voir les étoiles voisines.
+Vous avez certainement remarqué les traits entre certaines étoiles. Il s'agit d'hyperlignes. Vous les utiliserez pour traverser les systèmes grâce à une technologie nommée **PRL** (Plus Rapide que la Lumière, ou FTL en anglais). Vous disposez déjà de cette technologie, comme tous les empires galactiques.
+En temps normal, ce sera votre mode de transport habituel. 

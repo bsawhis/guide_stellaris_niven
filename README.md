@@ -234,4 +234,32 @@ J'en ai parlé un peu plus haut. La vue galactique vous permet d'avoir un aperç
 ![enter image description here](https://lh3.googleusercontent.com/xdRveJN_z6g4vfbHgQceQg7EqCj323bDR_I_6kc5KXNIsNqSpKVzBlts9us2gfgLqkXm_7Dz8viS) 
 Voici mon empire. Il ne comporte qu'un système, mais je pourrais l'agrandir plus tard. Vous pouvez voir les étoiles voisines.
 Vous avez certainement remarqué les traits entre certaines étoiles. Il s'agit d'hyperlignes. Vous les utiliserez pour traverser les systèmes grâce à une technologie nommée **PRL** (Plus Rapide que la Lumière, ou FTL en anglais). Vous disposez déjà de cette technologie, comme tous les empires galactiques.
-En temps normal, ce sera votre mode de transport habituel. 
+En temps normal, ce sera votre mode de transport habituel. Des hyperlignes apparaîtront à mesure que vous explorerez d'autres systèmes.
+
+Afin d'éviter d'écrire un livre, je vais abréger un peu. Même si vous vous sentez un peu perdu, le jeu regorge d'infobulles pour vous guider. Sachez juste que vous pouvez également contrôler vos vaisseaux via la carte galactique.
+
+# III. Mécaniques de base
+Cette troisième partie montrera les mécaniques de base du jeu et les façons de jouer les plus simples.
+
+## Recherche
+
+Pour construire un empire prospère, vous aurez besoin de technologie. Les technologies vous donnent accès à de nouveaux bâtiments, vaisseaux, politiques, etc...
+Pour obtenir de nouvelles technologies, vous devez produire de la **recherche**.
+Il existe trois domaines de recherche principaux: 
+
+![enter image description here](https://lh3.googleusercontent.com/eLYmz1bHn2tGX07dknOPB9xYkcfKKQFgg3RMtElCArhykmWLg89bMMVjRAM_17rr5xwLOVEy6nih) **Sciences physiques**
+![enter image description here](https://lh3.googleusercontent.com/sPRz6g7d9qmaTsDU2niT2yrfeXXfMZyQwGLmHHqZuxqG1UWabhvv_KhxEZVhH50HsezHyEyyRukI) **Sciences sociales**
+![enter image description here](https://lh3.googleusercontent.com/XskudWhr_hQOnlA07NRUKghR_BpqRp6HhTxJpzFnNhWrubMusU1FRumrtB0LLkVTwrr8O6nQ5MRu) **Ingénierie**
+
+Ces domaines de recherche sont eux-mêmes divisés en sous-domaines de recherche. 
+
+Pour produire de la recherche dans un des domaines, il vous faudra construire des **laboratoires de recherche** sur vos mondes, ainsi que des **postes de recherche orbitale**. Vous pouvez voir votre production de recherche ici: 
+![enter image description here](https://lh3.googleusercontent.com/WdIIvukDyFjz8VmonxoVRyhvRlvvp1C9tkFeJvSgweo1RxPVszZqVMSD-mla3aqbO_ddb8LGh-fl)
+Quand vous recherchez une technologie, la recherche produite par mois développe vos technologies. Quand vous aurez atteint la quantité de recherche requise, vous débloquerez la technologie et pourrez en rechercher une nouvelle.
+
+Vous pouvez rechercher des technologies dans les trois domaines à la fois. Les recherches sont menées par un **scientifique**.
+![enter image description here](https://lh3.googleusercontent.com/dGsYtHyfvf_iqaZ-sW2mkoiaLUNax2jKBteOCRSu_pGirph1VRFWI4dpKLwYd60rmJ7mCYBFfJS_bX0FaVO0rfydC-y4tVSijOq_-JcNuPTvX6Oinfhf3YAcuf0i-ocCijo9zbOq6xn_AivTmEgLsYmoEtOG4ds24-XYMeEd6UUC2rb5rVWS4oG1Ak9uGmI9OpZZvpYLE_I7Crrz9sF6D23nmG4H0QVZ7rnPxlx2FqyHciBJaX9d7d7UFJO-kza5FQ8y8WiLllQvtggv4J7VEGHzd3APIvxxVqXVkBO_vb-zu_8mzPGEqp01FVz8l9ocpaGdmo6V73IVjSPRysZxVOIU4830cVbqGcu7sykdOcu2wfLE8GDExDs6fH8aQq8fW8lep8rCAMDbmm3kBQINvQW9X_0kShuyyC1JZvyVyL7UN9Dq1yYuGKjQF3IU4_BBNwugB1apM7h4COHRfCABbYjFCE-3Irf1woFMtNIyP8j4ZFdlSD-cMiQjK2xVy7PjB_lIeMaxMd0vpwfnO1lzbJFc-PjSnk2D3vI57bPMFJxDm8MmazyYcz3A5JyrF53Go2y-x9NbKQB-2xu4mXfjfF20rAaUUJWeIx_WRvw=w1511-h944-no)
+Voici le menu des technologies. Vous pouvez voir les recherches en cours et les technologies à rechercher, ainsi que les scientifiques chargés de mener les recherches. Les scientifiques disposent de **traits** qui influent sur la recherche. Par exemple, un scientifique qui dispose du trait **expertise en manipulation des champs** recherchera plus rapidement les technologies appartenant au sous domaine correspondant. Les scientifiques sont révocables et changer de scientifique peut s'avérer bénéfique dans certains cas. Il n'est pas nécessaire de nommer un scientifique pour rechercher une technologie, mais cela prendra énormément plus de temps.
+
+Quand une technologie est recherchée, vous pouvez en choisir une autre parmi les **alternatives de recherche** disponibles. Ces alternatives sont générées aléatoirement à chaque technologie débloquée. Notez que le coût en recherche des technologies augmentera au cours de la partie quand vous rechercherez des technologies plus avancées. Ce coût augmentera encore selon la taille de votre empire et le nombre de planètes colonisées. Veillez donc toujours à augmenter votre production mensuelle de recherche dans chaque domaine.
+
